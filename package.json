@@ -1,0 +1,6 @@
+{
+  "name": "agent-kira-bot-de-analisis-de-sentimiento-morpofih",
+  "version": "1.0.0",
+  "description": "Proyecto de Kira [Gen19]: bot de analisis de sentimiento de noticias financieras",
+  "main": "index.js"
+}
